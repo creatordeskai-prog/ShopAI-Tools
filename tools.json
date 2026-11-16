@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Shopify Magic",
+    "slug": "shopify-magic",
+    "official_url": "https://www.shopify.com/magic",
+    "affiliate_url": "",
+    "description": "Shopify Magic puts AI writing tools inside Shopify. It can help draft product descriptions and other store copy, but sellers still need to check product facts, tone, and claims before publishing.",
+    "category": "Product Listings",
+    "pricing_type": "freemium",
+    "best_for": "Shopify merchants drafting product copy",
+    "pros": [
+      "Built into Shopify",
+      "Useful for first drafts",
+      "Works within store workflows"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Jasper",
+    "slug": "jasper",
+    "official_url": "https://www.jasper.ai",
+    "affiliate_url": "",
+    "description": "Jasper is an AI writing platform for marketing teams. It can help produce product and campaign copy with a consistent voice, although its broader workflow and price may be more than a tiny catalog needs.",
+    "category": "Product Listings",
+    "pricing_type": "paid",
+    "best_for": "teams creating repeatable brand copy",
+    "pros": [
+      "Brand voice controls",
+      "Templates and workflows",
+      "Supports team collaboration"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Copy.ai",
+    "slug": "copy-ai",
+    "official_url": "https://www.copy.ai",
+    "affiliate_url": "",
+    "description": "Copy.ai offers AI writing and workflow tools for sales and marketing. It can speed up drafts for listings and promotions, while product specifics and compliance remain the merchant’s responsibility.",
+    "category": "Product Listings",
+    "pricing_type": "freemium",
+    "best_for": "stores testing product and campaign copy",
+    "pros": [
+      "Quick copy drafts",
+      "Multiple marketing uses",
+      "Workflow features"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Writesonic",
+    "slug": "writesonic",
+    "official_url": "https://writesonic.com",
+    "affiliate_url": "",
+    "description": "Writesonic provides AI writing tools for articles, ads, and ecommerce copy. It is useful for brainstorming and drafting, but output needs editing to match a store’s actual products.",
+    "category": "Product Listings",
+    "pricing_type": "freemium",
+    "best_for": "sellers producing varied marketing copy",
+    "pros": [
+      "Many content formats",
+      "Fast idea generation",
+      "SEO writing features"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Hypotenuse AI",
+    "slug": "hypotenuse-ai",
+    "official_url": "https://www.hypotenuse.ai",
+    "affiliate_url": "",
+    "description": "Hypotenuse AI focuses on ecommerce product content and bulk catalog workflows. It can turn product data into descriptions at scale, provided the source attributes are accurate.",
+    "category": "Product Listings",
+    "pricing_type": "paid",
+    "best_for": "catalog teams with many SKUs",
+    "pros": [
+      "Bulk content workflows",
+      "Product-focused features",
+      "Uses catalog attributes"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Describely",
+    "slug": "describely",
+    "official_url": "https://describely.ai",
+    "affiliate_url": "",
+    "description": "Describely helps ecommerce teams generate and enrich product content in bulk. It is best suited to catalog operations where teams can review generated descriptions and attribute quality.",
+    "category": "Product Listings",
+    "pricing_type": "paid",
+    "best_for": "retailers managing large product catalogs",
+    "pros": [
+      "Bulk generation",
+      "Catalog enrichment",
+      "Designed for ecommerce"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Anyword",
+    "slug": "anyword",
+    "official_url": "https://anyword.com",
+    "affiliate_url": "",
+    "description": "Anyword generates and analyzes marketing copy, including product and ad messaging. Its predictive features can guide experiments, but they are no substitute for testing with your own shoppers.",
+    "category": "Product Listings",
+    "pricing_type": "paid",
+    "best_for": "marketers testing conversion copy",
+    "pros": [
+      "Copy variations",
+      "Performance-oriented tools",
+      "Brand controls"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Photoroom",
+    "slug": "photoroom",
+    "official_url": "https://www.photoroom.com",
+    "affiliate_url": "",
+    "description": "Photoroom removes backgrounds and helps create product visuals from existing photos. AI scenes can save studio time, but check that generated surroundings do not misrepresent the item.",
+    "category": "Product Photos",
+    "pricing_type": "freemium",
+    "best_for": "sellers cleaning up product photos quickly",
+    "pros": [
+      "Background removal",
+      "Batch editing options",
+      "Commerce-focused templates"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Pixelcut",
+    "slug": "pixelcut",
+    "official_url": "https://www.pixelcut.ai",
+    "affiliate_url": "",
+    "description": "Pixelcut offers background removal, upscaling, and AI product image tools. It makes simple visual edits accessible, though the finished image still needs a close accuracy check.",
+    "category": "Product Photos",
+    "pricing_type": "freemium",
+    "best_for": "solo sellers making listing images",
+    "pros": [
+      "Easy cutouts",
+      "Image upscaling",
+      "Product scene tools"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Pebblely",
+    "slug": "pebblely",
+    "official_url": "https://pebblely.com",
+    "affiliate_url": "",
+    "description": "Pebblely creates styled backgrounds around product images. It can help small brands explore visual concepts without a full shoot, but unusual shapes and reflective items may need manual cleanup.",
+    "category": "Product Photos",
+    "pricing_type": "freemium",
+    "best_for": "brands making lifestyle scenes from product shots",
+    "pros": [
+      "Fast scene generation",
+      "Many visual styles",
+      "Starts from a product photo"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Flair.ai",
+    "slug": "flair-ai",
+    "official_url": "https://flair.ai",
+    "affiliate_url": "",
+    "description": "Flair.ai provides a canvas for AI-assisted product photography and layouts. It is useful for campaign concepts and repeatable visual styles, with human review needed for product fidelity.",
+    "category": "Product Photos",
+    "pricing_type": "freemium",
+    "best_for": "teams composing branded product scenes",
+    "pros": [
+      "Visual canvas",
+      "Branded scene creation",
+      "Collaborative workflow"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Claid.ai",
+    "slug": "claid-ai",
+    "official_url": "https://claid.ai",
+    "affiliate_url": "",
+    "description": "Claid.ai offers AI image enhancement and generation for ecommerce catalogs. It can standardize and improve photos at scale, though results depend on the quality of source imagery.",
+    "category": "Product Photos",
+    "pricing_type": "paid",
+    "best_for": "catalogs improving image consistency",
+    "pros": [
+      "Image enhancement",
+      "Bulk processing",
+      "Ecommerce integrations"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "official_url": "https://www.adobe.com/products/firefly.html",
+    "affiliate_url": "",
+    "description": "Adobe Firefly provides generative image and editing tools within Adobe’s creative ecosystem. It is flexible for marketing visuals, but product imagery should be checked for faithful details.",
+    "category": "Product Photos",
+    "pricing_type": "freemium",
+    "best_for": "designers editing campaign imagery",
+    "pros": [
+      "Generative editing",
+      "Adobe workflow integration",
+      "Flexible creative controls"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Canva",
+    "slug": "canva",
+    "official_url": "https://www.canva.com",
+    "affiliate_url": "",
+    "description": "Canva combines templates, image editing, and AI design features. It is approachable for product graphics and social assets, although complex retouching may call for a specialist editor.",
+    "category": "Product Photos",
+    "pricing_type": "freemium",
+    "best_for": "small teams making product graphics",
+    "pros": [
+      "Simple templates",
+      "Team collaboration",
+      "Multiple output formats"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Gorgias",
+    "slug": "gorgias",
+    "official_url": "https://www.gorgias.com",
+    "affiliate_url": "",
+    "description": "Gorgias brings ecommerce support conversations and automation into one helpdesk. Its AI features can assist with routine requests, but careful setup and escalation rules matter for customer trust.",
+    "category": "Customer Support",
+    "pricing_type": "paid",
+    "best_for": "commerce teams handling support across channels",
+    "pros": [
+      "Commerce integrations",
+      "Shared support inbox",
+      "Automation tools"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Tidio",
+    "slug": "tidio",
+    "official_url": "https://www.tidio.com",
+    "affiliate_url": "",
+    "description": "Tidio combines website chat, helpdesk tools, and its Lyro AI agent. It can answer common questions from supplied content, while sensitive or unusual cases should reach a human.",
+    "category": "Customer Support",
+    "pricing_type": "freemium",
+    "best_for": "small stores adding live chat and AI answers",
+    "pros": [
+      "Live chat and AI together",
+      "Easy website setup",
+      "Common-question automation"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Intercom",
+    "slug": "intercom",
+    "official_url": "https://www.intercom.com",
+    "affiliate_url": "",
+    "description": "Intercom offers customer messaging, a helpdesk, and the Fin AI agent. It can automate documented support questions, but the total cost and setup deserve scrutiny for small stores.",
+    "category": "Customer Support",
+    "pricing_type": "paid",
+    "best_for": "growing stores with complex support needs",
+    "pros": [
+      "AI agent and inbox",
+      "Knowledge-base use",
+      "Human handoff options"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "official_url": "https://www.zendesk.com/ai/",
+    "affiliate_url": "",
+    "description": "Zendesk AI adds automation, agent assistance, and AI agents to Zendesk support workflows. It is powerful for structured teams, but may be more system than a new shop needs.",
+    "category": "Customer Support",
+    "pricing_type": "paid",
+    "best_for": "established support teams",
+    "pros": [
+      "Broad support tooling",
+      "Agent assistance",
+      "Workflow automation"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Ada",
+    "slug": "ada",
+    "official_url": "https://www.ada.cx",
+    "affiliate_url": "",
+    "description": "Ada builds AI customer service agents across support channels. It suits teams that can maintain accurate knowledge and monitor resolution quality; pricing is aimed at larger operations.",
+    "category": "Customer Support",
+    "pricing_type": "paid",
+    "best_for": "brands with high volumes of repetitive questions",
+    "pros": [
+      "Multi-channel automation",
+      "Knowledge integrations",
+      "Escalation paths"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Freshdesk",
+    "slug": "freshdesk",
+    "official_url": "https://www.freshworks.com/freshdesk/",
+    "affiliate_url": "",
+    "description": "Freshdesk is a support platform with Freddy AI features for agents and automation. It can bring order to tickets before a store needs advanced AI, although some features require higher plans.",
+    "category": "Customer Support",
+    "pricing_type": "freemium",
+    "best_for": "small teams organizing tickets and chat",
+    "pros": [
+      "Ticket management",
+      "AI agent assistance",
+      "Multiple support channels"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Kustomer",
+    "slug": "kustomer",
+    "official_url": "https://www.kustomer.com",
+    "affiliate_url": "",
+    "description": "Kustomer combines customer records and support conversations with AI tools. Its unified view can help agents respond with context, but implementation is better suited to teams with steady support volume.",
+    "category": "Customer Support",
+    "pricing_type": "paid",
+    "best_for": "commerce teams wanting customer context in support",
+    "pros": [
+      "Customer timeline",
+      "AI-assisted support",
+      "Omnichannel inbox"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Klaviyo",
+    "slug": "klaviyo",
+    "official_url": "https://www.klaviyo.com",
+    "affiliate_url": "",
+    "description": "Klaviyo combines email, SMS, segmentation, and AI-assisted marketing features. Its strength is ecommerce data and automation; costs rise as contact lists and sending volume grow.",
+    "category": "Email & SMS",
+    "pricing_type": "freemium",
+    "best_for": "stores using customer data for lifecycle campaigns",
+    "pros": [
+      "Deep ecommerce integrations",
+      "Segmentation and flows",
+      "Email and SMS in one place"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Omnisend",
+    "slug": "omnisend",
+    "official_url": "https://www.omnisend.com",
+    "affiliate_url": "",
+    "description": "Omnisend offers email and SMS marketing for online stores with automation and AI content assistance. It is approachable for common flows, though sellers should still review targeting and message claims.",
+    "category": "Email & SMS",
+    "pricing_type": "freemium",
+    "best_for": "stores wanting ready-made lifecycle flows",
+    "pros": [
+      "Ecommerce automation",
+      "Email and SMS",
+      "Prebuilt workflows"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Mailchimp",
+    "slug": "mailchimp",
+    "official_url": "https://mailchimp.com",
+    "affiliate_url": "",
+    "description": "Mailchimp offers email marketing, customer journeys, and AI-assisted creative tools. It is familiar and broad, though ecommerce-specific automation may need a higher tier or extra setup.",
+    "category": "Email & SMS",
+    "pricing_type": "freemium",
+    "best_for": "small businesses starting email marketing",
+    "pros": [
+      "Accessible editor",
+      "Large template library",
+      "Audience tools"
+    ],
+    "featured": false
+  },
+  {
+    "name": "ActiveCampaign",
+    "slug": "activecampaign",
+    "official_url": "https://www.activecampaign.com",
+    "affiliate_url": "",
+    "description": "ActiveCampaign combines email, CRM, and AI-assisted marketing automation. Its flexible flows suit stores with clear lifecycle plans, but take time to configure well.",
+    "category": "Email & SMS",
+    "pricing_type": "paid",
+    "best_for": "stores needing detailed automation",
+    "pros": [
+      "Advanced automation",
+      "Segmentation",
+      "CRM features"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Brevo",
+    "slug": "brevo",
+    "official_url": "https://www.brevo.com",
+    "affiliate_url": "",
+    "description": "Brevo offers email, SMS, automation, and AI-assisted campaign creation. It covers several channels in one platform; check plan limits and deliverability needs before migrating.",
+    "category": "Email & SMS",
+    "pricing_type": "freemium",
+    "best_for": "budget-conscious stores sending email and SMS",
+    "pros": [
+      "Email and SMS",
+      "Automation features",
+      "Entry-level plan"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Attentive",
+    "slug": "attentive",
+    "official_url": "https://www.attentive.com",
+    "affiliate_url": "",
+    "description": "Attentive specializes in SMS marketing and broader customer messaging with AI features. It fits merchants that can support a mature opt-in program and measure incremental results.",
+    "category": "Email & SMS",
+    "pricing_type": "paid",
+    "best_for": "brands focused on SMS and personalized messaging",
+    "pros": [
+      "SMS specialization",
+      "Personalization tools",
+      "Campaign automation"
+    ],
+    "featured": false
+  },
+  {
+    "name": "AdCreative.ai",
+    "slug": "adcreative-ai",
+    "official_url": "https://www.adcreative.ai",
+    "affiliate_url": "",
+    "description": "AdCreative.ai generates ad creative concepts and copy for paid channels. It can accelerate testing, but predicted creative scores should not be treated as guaranteed performance.",
+    "category": "Ads & Social",
+    "pricing_type": "paid",
+    "best_for": "advertisers producing many creative variations",
+    "pros": [
+      "Creative variations",
+      "Ad copy generation",
+      "Brand asset support"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Predis.ai",
+    "slug": "predis-ai",
+    "official_url": "https://predis.ai",
+    "affiliate_url": "",
+    "description": "Predis.ai creates social posts, captions, and short-form assets from prompts or product information. It helps maintain a posting cadence, while final posts need brand and factual review.",
+    "category": "Ads & Social",
+    "pricing_type": "freemium",
+    "best_for": "small stores planning social posts",
+    "pros": [
+      "Social post generation",
+      "Scheduling tools",
+      "Product-based content"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Pencil",
+    "slug": "pencil",
+    "official_url": "https://www.trypencil.com",
+    "affiliate_url": "",
+    "description": "Pencil helps brands generate and test ad creatives using AI. It is geared toward teams running ongoing campaigns; creative hypotheses still need real platform results to validate them.",
+    "category": "Ads & Social",
+    "pricing_type": "paid",
+    "best_for": "teams iterating paid ad videos and images",
+    "pros": [
+      "Creative iteration",
+      "Video and image options",
+      "Campaign workflow"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Smartly.io",
+    "slug": "smartly-io",
+    "official_url": "https://www.smartly.io",
+    "affiliate_url": "",
+    "description": "Smartly.io offers creative production and advertising automation across major platforms, including AI capabilities. It is a broad platform whose complexity and pricing favor substantial ad programs.",
+    "category": "Ads & Social",
+    "pricing_type": "paid",
+    "best_for": "larger advertisers managing multiple channels",
+    "pros": [
+      "Cross-channel tools",
+      "Creative automation",
+      "Campaign management"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Hootsuite",
+    "slug": "hootsuite",
+    "official_url": "https://www.hootsuite.com",
+    "affiliate_url": "",
+    "description": "Hootsuite provides social scheduling, analytics, and AI-assisted writing through OwlyWriter. It helps organize publishing, but generated captions should be checked for accuracy and voice.",
+    "category": "Ads & Social",
+    "pricing_type": "paid",
+    "best_for": "teams coordinating social publishing",
+    "pros": [
+      "Multi-network scheduling",
+      "Team workflows",
+      "Social analytics"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Buffer",
+    "slug": "buffer",
+    "official_url": "https://buffer.com",
+    "affiliate_url": "",
+    "description": "Buffer combines social scheduling with an AI assistant for post ideas and rewrites. It is simple to use for a small shop, although it does not replace a full creative strategy.",
+    "category": "Ads & Social",
+    "pricing_type": "freemium",
+    "best_for": "solo merchants scheduling social content",
+    "pros": [
+      "Simple scheduler",
+      "AI writing aid",
+      "Multi-channel publishing"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Ocoya",
+    "slug": "ocoya",
+    "official_url": "https://www.ocoya.com",
+    "affiliate_url": "",
+    "description": "Ocoya combines AI-generated social copy, design, and scheduling in one workspace. It can speed up routine posts, but visually distinctive brands may still need custom design work.",
+    "category": "Ads & Social",
+    "pricing_type": "paid",
+    "best_for": "shops creating and scheduling social content",
+    "pros": [
+      "Copy and visuals together",
+      "Post scheduling",
+      "Content calendar"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Semrush",
+    "slug": "semrush",
+    "official_url": "https://www.semrush.com",
+    "affiliate_url": "",
+    "description": "Semrush offers keyword research, site audits, content tools, and AI-assisted SEO features. It is broad and useful for planning, but rankings and AI visibility need ongoing measurement.",
+    "category": "SEO & AI Search",
+    "pricing_type": "freemium",
+    "best_for": "stores researching search demand and competitors",
+    "pros": [
+      "Keyword research",
+      "Technical audits",
+      "Competitor analysis"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Ahrefs",
+    "slug": "ahrefs",
+    "official_url": "https://ahrefs.com",
+    "affiliate_url": "",
+    "description": "Ahrefs provides search data, site audits, and AI-assisted content features. It is strong for finding search opportunities, though its data should guide rather than dictate product page copy.",
+    "category": "SEO & AI Search",
+    "pricing_type": "paid",
+    "best_for": "stores improving organic search content",
+    "pros": [
+      "Backlink data",
+      "Keyword discovery",
+      "Site audits"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Surfer",
+    "slug": "surfer",
+    "official_url": "https://surferseo.com",
+    "affiliate_url": "",
+    "description": "Surfer helps plan and edit content with SEO recommendations and AI writing tools. It can reveal missing topics, but chasing a score alone can make a guide less useful to shoppers.",
+    "category": "SEO & AI Search",
+    "pricing_type": "paid",
+    "best_for": "content teams optimizing buying guides",
+    "pros": [
+      "Content editor",
+      "Topic suggestions",
+      "AI drafting"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Frase",
+    "slug": "frase",
+    "official_url": "https://www.frase.io",
+    "affiliate_url": "",
+    "description": "Frase combines search research, content briefs, and AI drafting. It can shorten the research stage for guides and category pages, provided a person verifies facts and adds firsthand store knowledge.",
+    "category": "SEO & AI Search",
+    "pricing_type": "paid",
+    "best_for": "small teams drafting search-focused articles",
+    "pros": [
+      "Search briefs",
+      "AI outlines",
+      "Content optimization"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Clearscope",
+    "slug": "clearscope",
+    "official_url": "https://www.clearscope.io",
+    "affiliate_url": "",
+    "description": "Clearscope offers content optimization and AI writing assistance informed by search topics. It is useful for editors, but a higher price can be hard to justify for a new store.",
+    "category": "SEO & AI Search",
+    "pricing_type": "paid",
+    "best_for": "teams polishing established content",
+    "pros": [
+      "Clear editor guidance",
+      "Topic coverage",
+      "Team workflows"
+    ],
+    "featured": false
+  },
+  {
+    "name": "MarketMuse",
+    "slug": "marketmuse",
+    "official_url": "https://www.marketmuse.com",
+    "affiliate_url": "",
+    "description": "MarketMuse uses AI to help plan content, find topic gaps, and build briefs. It is most useful when a store has enough content to prioritize, with human expertise still needed to make pages original.",
+    "category": "SEO & AI Search",
+    "pricing_type": "freemium",
+    "best_for": "stores planning a larger content library",
+    "pros": [
+      "Topic planning",
+      "Content gap analysis",
+      "Brief creation"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Competera",
+    "slug": "competera",
+    "official_url": "https://competera.ai",
+    "affiliate_url": "",
+    "description": "Competera uses AI-based pricing tools for retailers. It can help assess pricing decisions across a catalog, but meaningful setup requires reliable cost, competitor, and demand data.",
+    "category": "Pricing & Inventory",
+    "pricing_type": "paid",
+    "best_for": "retailers managing complex pricing decisions",
+    "pros": [
+      "Pricing optimization",
+      "Retail focus",
+      "Catalog-scale workflows"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Pricefx",
+    "slug": "pricefx",
+    "official_url": "https://www.pricefx.com",
+    "affiliate_url": "",
+    "description": "Pricefx offers pricing software with AI capabilities for price analysis and optimization. Its enterprise scope is more relevant to substantial catalogs than to a new one-person shop.",
+    "category": "Pricing & Inventory",
+    "pricing_type": "paid",
+    "best_for": "larger sellers with complex price structures",
+    "pros": [
+      "Price analysis",
+      "Optimization tools",
+      "Enterprise integrations"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Prediko",
+    "slug": "prediko",
+    "official_url": "https://www.prediko.io",
+    "affiliate_url": "",
+    "description": "Prediko helps Shopify brands forecast demand and plan inventory using AI-driven tools. Forecasts can support purchasing, but promotions and supply changes still require human judgment.",
+    "category": "Pricing & Inventory",
+    "pricing_type": "paid",
+    "best_for": "Shopify brands planning stock purchases",
+    "pros": [
+      "Demand forecasting",
+      "Purchase planning",
+      "Shopify focus"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Inventory Planner",
+    "slug": "inventory-planner",
+    "official_url": "https://www.inventory-planner.com",
+    "affiliate_url": "",
+    "description": "Inventory Planner provides demand forecasting and replenishment recommendations for ecommerce. It helps turn sales history into purchase plans, while forecasts should be adjusted for unusual events.",
+    "category": "Pricing & Inventory",
+    "pricing_type": "paid",
+    "best_for": "merchants planning replenishment across channels",
+    "pros": [
+      "Replenishment planning",
+      "Sales forecasting",
+      "Multi-channel support"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Seller Snap",
+    "slug": "seller-snap",
+    "official_url": "https://www.sellersnap.io",
+    "affiliate_url": "",
+    "description": "Seller Snap uses AI-powered repricing for Amazon sellers. It can react to changing marketplace conditions, but sellers should set margin floors and monitor results closely.",
+    "category": "Pricing & Inventory",
+    "pricing_type": "paid",
+    "best_for": "Amazon sellers automating repricing",
+    "pros": [
+      "Amazon repricing",
+      "Automated strategies",
+      "Margin controls"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Triple Whale",
+    "slug": "triple-whale",
+    "official_url": "https://www.triplewhale.com",
+    "affiliate_url": "",
+    "description": "Triple Whale brings ecommerce, marketing, and attribution data into one dashboard, with AI assistance for analysis. It can clarify trends, but attribution estimates still require careful interpretation.",
+    "category": "Analytics",
+    "pricing_type": "paid",
+    "best_for": "DTC brands combining store and ad data",
+    "pros": [
+      "Commerce dashboards",
+      "Marketing attribution",
+      "AI analysis tools"
+    ],
+    "featured": true
+  },
+  {
+    "name": "Polar Analytics",
+    "slug": "polar-analytics",
+    "official_url": "https://www.polaranalytics.com",
+    "affiliate_url": "",
+    "description": "Polar Analytics centralizes ecommerce and marketing data and offers AI-assisted analysis. It can reduce spreadsheet work, provided source integrations and metric definitions are checked.",
+    "category": "Analytics",
+    "pricing_type": "paid",
+    "best_for": "brands consolidating marketing reports",
+    "pros": [
+      "Unified reporting",
+      "Marketing data connectors",
+      "AI-assisted insights"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Peel Insights",
+    "slug": "peel-insights",
+    "official_url": "https://www.peelinsights.com",
+    "affiliate_url": "",
+    "description": "Peel Insights analyzes ecommerce cohorts, retention, and customer metrics with AI-supported insights. It is useful for repeat-purchase decisions, but small stores may lack enough history for stable patterns.",
+    "category": "Analytics",
+    "pricing_type": "paid",
+    "best_for": "stores tracking retention and customer value",
+    "pros": [
+      "Cohort analysis",
+      "Customer value metrics",
+      "Ecommerce focus"
+    ],
+    "featured": false
+  },
+  {
+    "name": "DataHawk",
+    "slug": "datahawk",
+    "official_url": "https://datahawk.co",
+    "affiliate_url": "",
+    "description": "DataHawk combines marketplace analytics, search tracking, and AI-assisted insights. It is relevant to sellers managing Amazon performance, while recommendations still need verification against actual margins.",
+    "category": "Analytics",
+    "pricing_type": "paid",
+    "best_for": "Amazon and marketplace sellers tracking performance",
+    "pros": [
+      "Marketplace data",
+      "Search visibility tracking",
+      "Performance dashboards"
+    ],
+    "featured": false
+  },
+  {
+    "name": "Shopify Sidekick",
+    "slug": "shopify-sidekick",
+    "official_url": "https://www.shopify.com/sidekick",
+    "affiliate_url": "",
+    "description": "Shopify Sidekick is an AI assistant inside Shopify that can help merchants interpret store information and complete tasks. Its usefulness depends on the data and features available in the merchant’s Shopify plan.",
+    "category": "Analytics",
+    "pricing_type": "freemium",
+    "best_for": "Shopify merchants asking questions about store data",
+    "pros": [
+      "Built into Shopify",
+      "Natural-language help",
+      "Store-context answers"
+    ],
+    "featured": false
+  }
+]
